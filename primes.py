@@ -15,4 +15,5 @@ def is_prime(n):
 
 for i in range (3, upper_limit):
   if (is_prime(i)):
-    print i
+#    print i # python 2
+    print (i) # python 3
