@@ -13,6 +13,7 @@ not matter for this kind of program.
 
 | Language | Version    | Time    |
 | -------- | ---------- | ------- |
+| node     | 0.10.30    | 0:03:18 |
 | node     | 0.10.29    | 0:04:35 |
 | java     | 1.7.0_45   | 0:07:56 |
 | ruby     | 2.0.0p451  | 1:03:13 |
