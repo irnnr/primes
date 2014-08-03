@@ -17,7 +17,7 @@ not matter for this kind of program.
 | node     | 0.10.29    | 0:04:35 |
 | java     | 1.7.0_45   | 0:07:56 |
 | ruby     | 2.0.0p451  | 1:03:13 |
-| python   | 2.7.6      | 2:
+| python   | 2.7.6      | 2:45:24 |
 | php      | 5.5.15     | 3:08:34 |
 | go       |            |
 | rust     |            |
