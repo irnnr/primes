@@ -3,8 +3,9 @@ var upperLimit = 1000000;
 
 function isPrime(n) {
   var divisor = 2;
+  var sqrtN = Math.sqrt(n);
 
-  while (divisor < n) {
+  while (divisor < sqrtN) {
     if (n % divisor == 0) {
       return false;
     }

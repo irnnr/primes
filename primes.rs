@@ -10,13 +10,14 @@ fn main() {
 }
 
 fn is_prime(n: int) -> bool {
-  let mut divisor = 2;
+  let mut divisor = 2.0;
+  let sqrt_n = (n as f64).sqrt();
 
-  while divisor < n {
-    if n % divisor == 0 {
+  while divisor < sqrt_n {
+    if n % (divisor as int) == 0 {
       return false;
     }
-    divisor += 1;
+    divisor += 1.0;
   }
 
   return true;

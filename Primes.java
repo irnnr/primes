@@ -15,8 +15,9 @@ public class Primes {
 
   public static boolean isPrime(long n) {
     long divisor = 2;
+    long sqrtN = (int) Math.sqrt(n);
 
-    while (divisor < n) {
+    while (divisor < sqrtN) {
       if (n % divisor == 0) {
         return false;
       }
