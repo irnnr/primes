@@ -21,5 +21,6 @@ not matter for this kind of program.
 | java     | 1.7.0_45   | 0:07:56 |
 | ruby     | 2.1.1p76   | 0:44:44 |
 | ruby     | 2.0.0p451  | 1:03:13 |
+| python   | 3.4.1      | 2:33:45 |
 | python   | 2.7.6      | 2:45:24 |
 | php      | 5.5.15     | 3:08:34 |
