@@ -13,7 +13,7 @@ not matter for this kind of program.
 
 | Language | Version    | Time    |
 | -------- | ---------- | ------- |
-| node     | 0.10.30    | 0:03:18 |
+| node     | 0.10.30    | 0:02:56 |
 | node     | 0.10.29    | 0:04:35 |
 | go       | 1.3        | 0:06:22 |
 | rust     | 0.11.0     | 0:07:42 |
