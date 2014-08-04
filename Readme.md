@@ -7,7 +7,9 @@ the first 1,000,000 numbers are primes.
 
 Feel free to run those programs yourself, otherwise my timings are below. I ran
 those on a Mid-2010 MacBook Pro with a 2.66 GHz Core i7, memory and harddisk do
-not matter for this kind of program.
+not matter for this kind of program. Anyway, what does this tell us? Not much
+probably since real life applications involve a lot more factors than just raw
+CPU power.
 
 
 ##Timings
