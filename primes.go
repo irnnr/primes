@@ -6,7 +6,7 @@ import "math"
 func main() {
   upperLimit := 1000000
 
-  for i := 2; i < upperLimit; i++ {
+  for i := 2; i <= upperLimit; i++ {
     if (isPrime(i)) {
       fmt.Println(i)
     }
