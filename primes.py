@@ -15,6 +15,6 @@ def is_prime(n):
   return True
 
 
-for i in range (3, upper_limit):
+for i in range (2, upper_limit):
   if (is_prime(i)):
     print (i)
