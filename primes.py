@@ -6,7 +6,7 @@ upper_limit = 1000000
 def is_prime(n):
   divisor = 2
   sqrt_n = math.sqrt(n)
-  while (divisor < sqrt_n):
+  while (divisor <= sqrt_n):
     if (n % divisor == 0):
       return False
 

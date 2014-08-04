@@ -16,7 +16,7 @@ func main() {
 func isPrime(n int) bool {
   sqrtN := int(math.Sqrt(float64(n)))
 
-  for divisor := 2; divisor < sqrtN; divisor++ {
+  for divisor := 2; divisor <= sqrtN; divisor++ {
     if n % divisor == 0 {
       return false
     }

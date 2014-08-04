@@ -17,7 +17,7 @@ public class Primes {
     long divisor = 2;
     long sqrtN = (int) Math.sqrt(n);
 
-    while (divisor < sqrtN) {
+    while (divisor <= sqrtN) {
       if (n % divisor == 0) {
         return false;
       }

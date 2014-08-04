@@ -5,7 +5,7 @@ function isPrime(n) {
   var divisor = 2;
   var sqrtN = Math.sqrt(n);
 
-  while (divisor < sqrtN) {
+  while (divisor <= sqrtN) {
     if (n % divisor == 0) {
       return false;
     }

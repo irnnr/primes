@@ -6,7 +6,7 @@ def is_prime(n)
   divisor = 2
   sqrt_n = Math.sqrt(n)
 
-  while divisor < sqrt_n do
+  while divisor <= sqrt_n do
     return false if n % divisor == 0
     divisor += 1
   end
