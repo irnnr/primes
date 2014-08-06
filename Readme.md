@@ -2,7 +2,7 @@
 
 So I got bored that one weekend ... I don't even remember how I got the idea of
 trying this out, but I ended up calculating the prime numbers up to 1,000,000
-in different languages. So how many primes are there you ask? 78,497 of
+in different languages. So how many primes are there you ask? 78,498 of
 the first 1,000,000 numbers are primes.
 
 Feel free to run those programs yourself, otherwise my timings are below. I ran
