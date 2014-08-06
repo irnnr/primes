@@ -15,7 +15,7 @@ function isPrime(n) {
   return true;
 }
 
-for (var i = 3; i <= upperLimit; i++) {
+for (var i = 2; i <= upperLimit; i++) {
   if (isPrime(i)) {
     console.log(i);
   }
