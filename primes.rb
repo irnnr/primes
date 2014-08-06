@@ -14,7 +14,7 @@ def is_prime(n)
   true
 end
 
-(3..upper_limit).each do |i|
+(2..upper_limit).each do |i|
   if is_prime(i)
     print i, "\n"
   end
